@@ -9,9 +9,8 @@ class App extends Component {
       </div>
     );
   }
-  test() {
-    console.log('test')
-    console.log('test')
+  test1() {
+    console.log('test1111')
     console.log('test')
     console.log('test')
   }
