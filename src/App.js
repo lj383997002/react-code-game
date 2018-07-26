@@ -9,6 +9,12 @@ class App extends Component {
       </div>
     );
   }
-}
+  test() {
+    console.log('test')
+    console.log('test')
+    console.log('test')
+    console.log('test')
+  }
+} 
 
 export default App;
